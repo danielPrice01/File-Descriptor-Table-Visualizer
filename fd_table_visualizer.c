@@ -1,6 +1,5 @@
 /* File Descriptor Table Visualizer
    github.com/danielPrice01 26sp    */
-// TODO add comments
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
